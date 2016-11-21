@@ -1,2 +1,1 @@
-# Bankas
-Banko administravimo programa
+
